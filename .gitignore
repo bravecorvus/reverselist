@@ -1,0 +1,13 @@
+# OS-specific files
+Thumbs.db
+.DS_Store
+.nfs*
+reverselist
+
+# Compiled and object files
+*.out
+*.o
+
+# Temporary files
+*~
+\#*\#
