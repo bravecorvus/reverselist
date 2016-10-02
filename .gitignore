@@ -3,6 +3,7 @@ Thumbs.db
 .DS_Store
 .nfs*
 reverselist
+updatelist
 
 # Compiled and object files
 *.out
