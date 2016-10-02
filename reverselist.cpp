@@ -133,7 +133,7 @@ void stringvector() {
 
 
 int main() {
-  cout << "Pick what kind of vector you want to reverse: int, float, double, bool, or char" << endl;
+  cout << "Pick what kind of vector you want to reverse: int, float, double, bool, char or string" << endl;
   string userinput;
   cin >> userinput;
   if(userinput == "int") {
@@ -149,6 +149,6 @@ int main() {
   } else if (userinput == "string") {
     stringvector();
   } else {
-    cout << "Enter a valid value: int for integer, float for floating point, bool for boolean, char for character vector" << endl;
+    cout << "Enter a valid value: int for integer, float for floating point, bool for boolean, char for character vector, string for string vector" << endl;
   }
 }
