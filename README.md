@@ -1,6 +1,7 @@
 #Git instructions
 
 First in order to initialize your git repo with the existing data, do:
+    
     mkdir DIRECTORY_NAME
     cd DIRECTORY_NAME
     git init
